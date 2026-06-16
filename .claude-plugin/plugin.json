@@ -1,0 +1,27 @@
+{
+  "name": "shipwright",
+  "version": "1.0.0",
+  "description": "Production-grade engineering discipline for AI coding agents — 5 composable skills that make your agent plan, build, secure, and operate software like a senior engineer. Never skips a step, never fakes \"done\".",
+  "author": {
+    "name": "nhattrung0911",
+    "url": "https://github.com/nhattrung0911"
+  },
+  "homepage": "https://github.com/nhattrung0911/shipwright",
+  "repository": "https://github.com/nhattrung0911/shipwright",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "agent-skills",
+    "skills",
+    "production",
+    "devops",
+    "sre",
+    "security",
+    "owasp",
+    "full-stack",
+    "engineering-discipline",
+    "tdd",
+    "codex",
+    "gemini-cli"
+  ]
+}

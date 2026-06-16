@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs / temp
+*.log
+tmp/
+.cache/
+
+# wrangler local state (never commit — contains account id/email)
+.wrangler/
+.dev.vars

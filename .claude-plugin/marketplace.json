@@ -1,0 +1,22 @@
+{
+  "name": "shipwright",
+  "owner": {
+    "name": "nhattrung0911",
+    "url": "https://github.com/nhattrung0911"
+  },
+  "metadata": {
+    "description": "Shipwright — production engineering discipline skills for AI coding agents.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "shipwright",
+      "source": "./",
+      "description": "5 composable skills: disciplined-delivery, shipping-production-websites, securing-applications, operating-production-services, token-frugal-engineering.",
+      "version": "1.0.0",
+      "author": { "name": "nhattrung0911" },
+      "license": "MIT",
+      "keywords": ["production", "security", "sre", "full-stack", "discipline"]
+    }
+  ]
+}
